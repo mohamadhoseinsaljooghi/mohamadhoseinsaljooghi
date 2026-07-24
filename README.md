@@ -1,4 +1,4 @@
-###  Hi, I'm Mohammad Hosein 👋
+###  Hi, I'm Mohamad Hosein 👋
 
 Computer Engineering Student passionate about solving real-world problems through code and hardware integration.
 
